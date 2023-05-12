@@ -1,0 +1,2 @@
+# Zizu
+Just nft
